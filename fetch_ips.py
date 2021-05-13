@@ -47,7 +47,10 @@ RAW_URL = [
     "github-production-repository-file-5c1aeb.s3.amazonaws.com",
     "githubstatus.com",
     "github.community",
-    "media.githubusercontent.com"]
+    "media.githubusercontent.com",
+    "v2ex.com",
+    "www.v2ex.com",
+    "cdn.v2ex.com"]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
@@ -164,7 +167,8 @@ def main():
     has_change = write_file(hosts_content, update_time)
     if has_change:
         try:
-            update_gitee_gist(session, hosts_content)
+            # update_gitee_gist(session, hosts_content)
+            print("update")
         except Exception as e:
             print("update gitee gist fail:{}".format(e))
     print(hosts_content)
