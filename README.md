@@ -24,7 +24,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-3.85.29.172                   github.githubassets.com
+3.238.74.25                   github.githubassets.com
 140.82.112.4                  central.github.com
 185.199.109.133               desktop.githubusercontent.com
 140.82.112.4                  assets-cdn.github.com
@@ -59,13 +59,13 @@
 172.67.3.188                  cdn.v2ex.com
 
 
-# Update time: 2022-09-04T16:14:13+08:00
+# Update time: 2022-09-04T18:11:57+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-04T16:14:13+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-04T18:11:57+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
