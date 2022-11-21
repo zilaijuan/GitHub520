@@ -24,18 +24,39 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.112.4                  central.github.com
+52.3.235.242                  github.githubassets.com
+18.205.160.223                desktop.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+140.82.112.4                  gist.github.com
+185.199.108.153               github.io
+140.82.112.4                  github.com
+44.211.225.184                raw.githubusercontent.com
+34.207.185.112                user-images.githubusercontent.com
+52.206.3.230                  favicons.githubusercontent.com
+52.90.144.18                  avatars5.githubusercontent.com
+44.211.24.55                  avatars4.githubusercontent.com
+18.210.23.8                   avatars3.githubusercontent.com
+54.90.216.31                  avatars2.githubusercontent.com
+3.89.81.50                    avatars1.githubusercontent.com
+34.229.155.142                avatars0.githubusercontent.com
+140.82.112.4                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
+54.196.158.19                 media.githubusercontent.com
 
 
-# Update time: 2022-11-21T09:00:32+08:00
+# Update time: 2022-11-21T11:11:58+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-21T09:00:32+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-21T11:11:58+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
