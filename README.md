@@ -24,14 +24,27 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
+54.224.107.144                github.githubassets.com
 140.82.112.3                  central.github.com
+54.145.228.226                desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
+34.207.203.58                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 140.82.112.3                  github.com
 140.82.112.3                  api.github.com
+44.192.92.178                 raw.githubusercontent.com
+23.20.17.238                  user-images.githubusercontent.com
+44.202.65.205                 favicons.githubusercontent.com
+44.203.81.70                  avatars5.githubusercontent.com
+52.91.221.95                  avatars4.githubusercontent.com
+50.17.53.239                  avatars3.githubusercontent.com
+34.229.225.87                 avatars2.githubusercontent.com
+44.192.34.208                 avatars1.githubusercontent.com
+54.236.254.103                avatars0.githubusercontent.com
+44.204.109.27                 avatars.githubusercontent.com
 140.82.112.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -40,15 +53,16 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.112.18                 github.community
+35.153.159.223                media.githubusercontent.com
 
 
-# Update time: 2022-12-01T04:12:05+08:00
+# Update time: 2022-12-01T06:10:40+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T04:12:05+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-01T06:10:40+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
