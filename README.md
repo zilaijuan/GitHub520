@@ -24,6 +24,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
+140.82.113.4                  github.githubassets.com
 140.82.113.3                  central.github.com
 140.82.113.3                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
@@ -33,6 +34,7 @@
 140.82.113.3                  github.com
 140.82.113.3                  api.github.com
 140.82.113.3                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -44,13 +46,13 @@
 104.20.9.218                  cdn.v2ex.com
 
 
-# Update time: 2023-05-28T22:08:35+08:00
+# Update time: 2023-05-29T00:10:36+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-28T22:08:35+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-29T00:10:36+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
