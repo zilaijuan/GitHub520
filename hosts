@@ -1,16 +1,12 @@
 # GitHub520 Host Start
 140.82.114.4                  central.github.com
-185.199.108.133               desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
-185.199.108.133               camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
@@ -33,6 +29,6 @@
 104.20.9.218                  cdn.v2ex.com
 
 
-# Update time: 2023-12-11T06:08:28+08:00
+# Update time: 2023-12-11T08:44:54+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
