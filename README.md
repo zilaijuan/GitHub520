@@ -33,6 +33,7 @@
 140.82.113.4                  github.com
 140.82.113.4                  api.github.com
 140.82.113.4                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -44,13 +45,13 @@
 104.20.9.218                  cdn.v2ex.com
 
 
-# Update time: 2024-01-09T16:13:50+08:00
+# Update time: 2024-01-09T18:10:41+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-01-09T16:13:50+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-01-09T18:10:41+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
